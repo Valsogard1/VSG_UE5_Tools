@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2022.4.1",
+	"FriendlyName": "VSG Easy Git Manager",
+	"Description": "VSG Easy Git Manager",
+	"Category": "Valsogard Enterprise LLC",
+	"CreatedBy": "Valsogard Enterprise LLC",
+	"CreatedByURL": "https://valsogard.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "VSG_GitManager",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
+		}
+	]
+}
